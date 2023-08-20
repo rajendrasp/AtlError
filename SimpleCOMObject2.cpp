@@ -6,7 +6,6 @@
 //      run nmake -f SimpleCOMObject2ps.mk in the project directory.
 
 #include "stdafx.h"
-#include <Windows.h>
 #include <initguid.h>
 #include "SimpleCOMObject2.h"
 
